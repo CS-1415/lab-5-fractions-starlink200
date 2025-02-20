@@ -13,6 +13,16 @@ public class MixedNumber
 
     public MixedNumber(RationalNumber rationalNumber)
     {
+        PartialUnits = rationalNumber;
+    }
 
+    public override int GetHashCode()
+    {
+        return base.GetHashCode();
+    }
+
+    public override bool Equals(object? obj)
+    {
+        return base.Equals(obj);
     }
 }

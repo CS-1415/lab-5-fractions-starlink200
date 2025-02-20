@@ -1,4 +1,6 @@
+using System.Collections;
 using System.ComponentModel;
+using Microsoft.VisualBasic;
 
 public class RationalNumber
 {
@@ -30,7 +32,7 @@ public class RationalNumber
     }
     public override int GetHashCode()
     {
-        return HashCode.Combine(field1, field2, field3);
+        return base.GetHashCode();
     }
-    
+
 }
