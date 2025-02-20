@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-5-fractions-starlink200")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9f1c37815e0915d52bf9f08e9c2570014fb93cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e80e35f80d325a2c4ea2b16a317298fecfe29b1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-5-fractions-starlink200")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-5-fractions-starlink200")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
